@@ -24,6 +24,8 @@ Q values can be found using the bellman optimality equation.
  - [ ] Noisy DQN
  - [ ] Rainbow DQN
  - [ ] DQN with HER
+
+> These algorithms are implemented on low state representation of state space.
  
  ### Repository Structure
                     
